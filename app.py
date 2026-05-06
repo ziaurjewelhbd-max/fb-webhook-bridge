@@ -12,7 +12,7 @@ PAGE_ACCESS_TOKEN = "EAAe9LTMlolcBRX3JQ8arMkK0PURih9tSncgODgENBZCiJtlJpSKRSjBbIH
 MY_VERIFY_TOKEN = "my_pdf_bot_token"
 
 # ২. Gemini API Key (নিশ্চিত করুন এটি সঠিক)
-GEMINI_API_KEY = "AIzaSyAvh4QL7RlP-C22dbJh4-OymjAeefOKO74"
+GEMINI_API_KEY = "AIzaSyDWuXse1ulRFSh6Ie9TQAgrjQfPO-xTwDA"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # এখানে আমরা মডেল সেট করছি (gemini-1.5-flash সবচেয়ে লেটেস্ট এবং ফ্রি)
