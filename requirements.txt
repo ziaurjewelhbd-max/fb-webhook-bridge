@@ -2,4 +2,4 @@ flask
 requests
 gunicorn
 PyPDF2
-google-generativeai
+google-generativeai>=0.5.0
