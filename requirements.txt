@@ -2,3 +2,4 @@ flask
 requests
 gunicorn
 PyPDF2
+google-generativeai
